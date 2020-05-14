@@ -1,0 +1,9 @@
+model_summary
+model_checkpoint
+model_weights
+out
+data/test*
+data/val*
+data/train*
+data/en-fr
+data/_Byte*
